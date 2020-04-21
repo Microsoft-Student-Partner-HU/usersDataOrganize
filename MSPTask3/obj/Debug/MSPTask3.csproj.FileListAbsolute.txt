@@ -1,0 +1,15 @@
+D:\Documents\Projects\C#\MSPTask3\MSPTask3\bin\Debug\MSPTask3.exe.config
+D:\Documents\Projects\C#\MSPTask3\MSPTask3\bin\Debug\MSPTask3.exe
+D:\Documents\Projects\C#\MSPTask3\MSPTask3\bin\Debug\MSPTask3.pdb
+D:\Documents\Projects\C#\MSPTask3\MSPTask3\obj\Debug\MSPTask3.csprojAssemblyReference.cache
+D:\Documents\Projects\C#\MSPTask3\MSPTask3\obj\Debug\MainWindow.g.cs
+D:\Documents\Projects\C#\MSPTask3\MSPTask3\obj\Debug\App.g.cs
+D:\Documents\Projects\C#\MSPTask3\MSPTask3\obj\Debug\MSPTask3_MarkupCompile.cache
+D:\Documents\Projects\C#\MSPTask3\MSPTask3\obj\Debug\MSPTask3_MarkupCompile.lref
+D:\Documents\Projects\C#\MSPTask3\MSPTask3\obj\Debug\MainWindow.baml
+D:\Documents\Projects\C#\MSPTask3\MSPTask3\obj\Debug\MSPTask3.g.resources
+D:\Documents\Projects\C#\MSPTask3\MSPTask3\obj\Debug\MSPTask3.Properties.Resources.resources
+D:\Documents\Projects\C#\MSPTask3\MSPTask3\obj\Debug\MSPTask3.csproj.GenerateResource.cache
+D:\Documents\Projects\C#\MSPTask3\MSPTask3\obj\Debug\MSPTask3.csproj.CoreCompileInputs.cache
+D:\Documents\Projects\C#\MSPTask3\MSPTask3\obj\Debug\MSPTask3.exe
+D:\Documents\Projects\C#\MSPTask3\MSPTask3\obj\Debug\MSPTask3.pdb
